@@ -1,0 +1,10 @@
+pymupdf
+spacy
+transformers
+torch
+nltk
+geopy
+groak
+
+tqdm
+
